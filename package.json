@@ -30,8 +30,8 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "esutils": "^2.0.2",
-    "lodash": "^4.17.13",
+    "esutils": "2.0.2",
+    "lodash": "4.17.10",
     "to-fast-properties": "^2.0.0"
   },
   "deprecated": false,
